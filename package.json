@@ -1,0 +1,22 @@
+{
+  "name": "apps",
+  "version": "1.0.0",
+  "description": "alexa testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakesh031986jha/alexaserver.git"
+  },
+  "author": "rakesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakesh031986jha/alexaserver/issues"
+  },
+  "homepage": "https://github.com/rakesh031986jha/alexaserver#readme",
+  "dependencies": {
+    "alexa-app-server": "^3.0.1"
+  }
+}
